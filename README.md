@@ -15,7 +15,7 @@
 
     - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente). [ X ]
     - Ambos devem fazer um clone do repositório em suas máquinas locais. [ X ]
-    - Realizem alterações, Commits, abra issues e pull requests. [ ]
+    - Realizem alterações, Commits, abra issues e pull requests. [ X ] <!--Etapa realizada através de conta colaborativa e nova branch, solicitando o pull request -->
 
 4. Formatação com Markdown:
 
@@ -23,3 +23,4 @@
     - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto. [ X ]
 
 ![Gif Pica Pau](https://tenor.com/view/pica-pau-ele-%C3%A9-louco-gif-11235208094802741675)
+
